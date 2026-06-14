@@ -1,0 +1,1 @@
+Agent with roles and emotional state

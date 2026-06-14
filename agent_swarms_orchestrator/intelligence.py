@@ -1,0 +1,1 @@
+Full intelligence primitives including advanced QCoinReputationSystem
